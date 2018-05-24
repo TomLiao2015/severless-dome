@@ -78,7 +78,7 @@ mutation {
 }
 ```
 
-To get all orders of a specific user, you can use this query, use the login user id to replace '<userId>'
+To get all orders of a specific user, you can use this query, use the login user id to replace `<userId>`
 
 ```graphql
 {
