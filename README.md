@@ -43,7 +43,7 @@ query loggedInUser {
 
 ### Checkout Process
 
-First, Check a order for the Login user. Use the id which you got from 'loggedInUser' to replace the <userId>
+First, Check a order for the Login user. Use the id which you got from 'loggedInUser' to replace the `<userId>`
 
 ```graphql
 mutation {
